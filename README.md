@@ -1,4 +1,4 @@
-# Kerem Isik | Shopify Expert 🚀
+# Kerem Isik | Shopify Expert 
 ![Shopify Partner](https://img.shields.io/badge/Shopify-Partner-brightgreen)
 ![Liquid Expert](https://img.shields.io/badge/Liquid-Expert-blue)
 ![React Developer](https://img.shields.io/badge/React-Developer-blue)
