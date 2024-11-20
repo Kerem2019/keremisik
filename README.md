@@ -8,9 +8,9 @@
 
 Merhaba! Ben **Kerem Isik**, dünyanın dört bir yanındaki işletmeler için özel Shopify çözümleri geliştiren bir yazılım geliştiricisiyim. 
 
-- 🌟 **Shopify Uzmanı**: Mağaza tasarımı, uygulama geliştirme ve optimizasyon alanında uzmanlık.
-- 💡 **Özel Çözümler**: Sizin ihtiyaçlarınıza özel, tamamen özelleştirilmiş Shopify projeleri.
-- 🚀 **Sonuç Odaklı**: Dönüşüm oranlarını artırmak ve kullanıcı deneyimini mükemmelleştirmek için çalışıyorum.
+-  **Shopify Uzmanı**: Mağaza tasarımı, uygulama geliştirme ve optimizasyon alanında uzmanlık.
+-  **Özel Çözümler**: Sizin ihtiyaçlarınıza özel, tamamen özelleştirilmiş Shopify projeleri.
+-  **Sonuç Odaklı**: Dönüşüm oranlarını artırmak ve kullanıcı deneyimini mükemmelleştirmek için çalışıyorum.
 
 ## Hangi Hizmetleri Sunuyorum?
 
