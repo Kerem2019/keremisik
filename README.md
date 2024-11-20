@@ -1,13 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kerem IŞIK</h1>
-<h3 align="center">A passionate frontend developer from Denmark / Turkey</h3>
+# Kerem Isik | Shopify Expert 🚀
+![Shopify Partner](https://img.shields.io/badge/Shopify-Partner-brightgreen)
+![Liquid Developer](https://img.shields.io/badge/Shopify-Liquid-blue)
+![React Expert](https://img.shields.io/badge/React-Expert-blue)
 
-- 📫 How to reach me **keremisik@outlook.com.tr**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keremisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremisik" height="30" width="40" /></a>
-<a href="https://fb.com/keremisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keremisik" height="30" width="40" /></a>
-</p>
+Merhaba! Ben **Kerem Isik**, dünyanın dört bir yanındaki işletmeler için özel Shopify çözümleri geliştiren bir yazılım geliştiricisiyim. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🌟 **Shopify Uzmanı**: Mağaza tasarımı, uygulama geliştirme ve optimizasyon alanında uzmanlık.
+- 💡 **Özel Çözümler**: Sizin ihtiyaçlarınıza özel, tamamen özelleştirilmiş Shopify projeleri.
+- 🚀 **Sonuç Odaklı**: Dönüşüm oranlarını artırmak ve kullanıcı deneyimini mükemmelleştirmek için çalışıyorum.
+
+## Hangi Hizmetleri Sunuyorum?
+
+1. **Shopify Teması Geliştirme**
+   - Baştan sona özel temalar oluşturma.
+   - Mevcut temaları özelleştirme.
+
+2. **Shopify Uygulama Geliştirme**
+   - Liquid, React, ve Shopify Polaris Framework kullanarak özel uygulamalar geliştirme.
+
+3. **Performans Optimizasyonu**
+   - Daha hızlı yükleme süreleri ve daha iyi SEO.
+
+
+📧 Bana ulaşmak için: **keremisik@outlook.com.tr**  
