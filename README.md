@@ -1,7 +1,9 @@
 # Kerem Isik | Shopify Expert 🚀
 ![Shopify Partner](https://img.shields.io/badge/Shopify-Partner-brightgreen)
-![Liquid Developer](https://img.shields.io/badge/Shopify-Liquid-blue)
-![React Expert](https://img.shields.io/badge/React-Expert-blue)
+![Liquid Expert](https://img.shields.io/badge/Liquid-Expert-blue)
+![React Developer](https://img.shields.io/badge/React-Developer-blue)
+![API Integration](https://img.shields.io/badge/API-Integration-orange)
+
 
 
 Merhaba! Ben **Kerem Isik**, dünyanın dört bir yanındaki işletmeler için özel Shopify çözümleri geliştiren bir yazılım geliştiricisiyim. 
